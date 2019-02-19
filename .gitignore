@@ -23,3 +23,5 @@ target/
 /nbdist/
 /.nb-gradle/
 /build/
+.vscode
+*.mb.db
