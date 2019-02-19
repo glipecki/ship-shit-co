@@ -24,4 +24,4 @@ target/
 /.nb-gradle/
 /build/
 .vscode
-*.mb.db
+*.mv.db
